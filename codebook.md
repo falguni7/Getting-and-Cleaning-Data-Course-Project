@@ -3,7 +3,7 @@
 ## Initial data for research
 UCI HAR Dataset
 
-###Variables
+Variables
 1. subject - ID of 30 volunteers
 2. activity - Activity type performed by subjects
 
@@ -33,6 +33,8 @@ fBodyAccMag
 fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
+
+## Process Flow
 
 Features Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz are captured. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
