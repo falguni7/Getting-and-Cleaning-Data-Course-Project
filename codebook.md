@@ -1,4 +1,4 @@
-#Code book for "Getting and Cleaning Data" Course Project
+##Code book for "Getting and Cleaning Data" Course Project
 
 ## Initial data for research
 UCI HAR Dataset
